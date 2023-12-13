@@ -6,7 +6,7 @@ We are a laboratory in the school of Aerospace Engineering studying aerothermody
 Current members:
 - Professor Stephen M. Ruffin (PI)
 - David C. Dement
-- [Micaiah Smith-Pierce](https://github.com/micaiah-sp)
+- Micaiah Smith-Pierce
 - Aravind Karthik Muralidharan
 - Nidal Farran
 
